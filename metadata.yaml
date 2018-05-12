@@ -1,0 +1,39 @@
+_repo: Among-the-Night-People_35014
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gordon, F. C.
+    alias: Gordon, Frederick C. (Frederick Charles)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '37343'
+    url: http://www.gutenberg.org/2009/agents/37343
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: ''
+gutenberg_issued: '2011-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: The black Spanish chickens -- The wigglers become mosquitoes -- The
+  naughty raccoon children -- The timid little ground hog -- The young raccoons go
+  to a party -- The skunks and the ovenbird's nest -- The lazy cut-worms -- The night
+  moth's party -- The lonely old bachelor muskrat -- The greedy red fox -- The unfortunate
+  fireflies -- The kittens come to the forest -- The inquisitive weasels -- The thrifty
+  deer-mouse -- The humming-bird and the hawk-moth.
+title: Among the Night People
+url: http://www.gutenberg.org/ebooks/35014
